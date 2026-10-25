@@ -10,7 +10,7 @@
 
 <p align="center">
   <code>AI systems</code> · <code>market structure</code> · <code>cryptography</code> ·
-  <code>probability</code> · <code>philosophy</code> · <code>local inference</code>
+  <code>probability</code> · <code>philosophy</code> · <code>local inference</code> <code>commercial systems</code> 
 </p>
 
 ---
@@ -27,9 +27,8 @@ computation, physics, and philosophy—but the method stays recognizable:
 encounter -> wager -> mechanism -> assay -> residue -> return
 ```
 
-The theatrical premise is an impossible laboratory of alchemy and
-numeromancy. The operating rule is less mystical: **the theater creates
-attention; the mechanism earns belief.**
+The theatrical premise is an auto-generative laboratory of alchemy and
+numeromancy. I have no idea where any of this is going - and that's by design.
 
 ## At the workbench
 
