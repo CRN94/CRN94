@@ -10,7 +10,8 @@
 
 <p align="center">
   <code>AI systems</code> · <code>market structure</code> · <code>cryptography</code> ·
-  <code>probability</code> · <code>philosophy</code> · <code>local inference</code> <code>commercial systems</code> 
+  <code>probability</code> · <code>philosophy</code> · <code>local inference</code> · <code>commercial systems</code> ·
+  <code>game theory</code> · 
 </p>
 
 ---
