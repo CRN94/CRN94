@@ -5,7 +5,7 @@
 <h1 align="center">Charles Needham</h1>
 
 <p align="center">
-  <strong>Technomancer building small, inspectable machines for questions that refuse to leave him alone.</strong>
+  <strong>Building small, inspectable machines for questions that refuse to leave me alone.</strong>
 </p>
 
 <p align="center">
